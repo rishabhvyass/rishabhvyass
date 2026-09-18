@@ -50,14 +50,8 @@
 
 ```ts
 const rishabh = {
-  code        : ["TypeScript", "JavaScript", "Solidity", "Rust", "Python"],
-  frontend    : ["React", "React Native", "Next.js", "Redux", "TailwindCSS"],
-  backend     : ["Node.js", "Express", "Django", "GraphQL", "PostgreSQL", "MongoDB"],
-  web3        : ["Solana", "EVM", "ethers.js", "wagmi", "DeFi", "DEX", "NFTs"],
-  cloudOps    : ["AWS", "GCP", "Docker", "Firebase", "Linux", "CI/CD"],
-  currentFocus: "shipping production-ready decentralized applications",
-  openTo      : "Web3, AI x Web3, DeFi and open-source collaborations",
-  motto       : "Build in public. Ship fast. Iterate faster.",
+  code        : ["TypeScript", "JavaScript"],
+  frontend    : ["React", "React Native"],
 } as const;
 ```
 
