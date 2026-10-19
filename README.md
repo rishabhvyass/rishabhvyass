@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Rishabh Vyas
 
-### Web3 Developer · Full-Stack Developer · React Native Developer
+### React Native Developer
 
-Building **Web3, AI, and full-stack applications** with a focus on decentralized platforms, DeFi, and modern mobile experiences.
+Building full-stack applications** with a focus on modern mobile experiences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rishabhvyass)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/rishabhvyass)
@@ -16,11 +16,8 @@ Building **Web3, AI, and full-stack applications** with a focus on decentralized
 
 ## 🚀 About Me
 
-* 🔭 Building **Web3, AI & full-stack applications**
-* 🌱 Exploring **Blockchain, Solana & AI applications**
 * 📱 Building cross-platform apps with **React Native**
 * 💡 Interested in **DeFi, DEXs & Web3 infrastructure**
-* 🤝 Open to collaborating on **Web3 and open-source projects**
 
 ---
 
@@ -28,33 +25,15 @@ Building **Web3, AI, and full-stack applications** with a focus on decentralized
 
 ### Languages
 
-`TypeScript` · `JavaScript` · `Rust` · `Solidity`
+`TypeScript` · `JavaScript` ·
 
 ### Frontend
 
-`React` · `React Native` · `Next.js` · `Tailwind CSS`
-
-### Backend
-
-`Node.js` · `Express.js` · `PostgreSQL` · `MongoDB`
-
-### Web3
-
-`Solana` · `Ethereum` · `Anchor` · `ethers.js` · `wagmi`
+`React` · `React Native` · 
 
 ### Tools
 
-`Git` · `GitHub` · `Docker` · `Linux` · `Figma`
-
----
-
-## 🔥 What I Build
-
-* 🌐 Web3 Applications
-* 💰 DeFi & DEX Platforms
-* 🤖 AI × Web3 Applications
-* 📱 React Native Mobile Apps
-* ⛓️ Blockchain & Smart Contracts
+`Git` · `GitHub` · `Linux` ·
 
 ---
 
